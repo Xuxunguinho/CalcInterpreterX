@@ -1,0 +1,13 @@
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\bin\Release\Demo.exe.config
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\bin\Release\Demo.exe
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\bin\Release\Demo.pdb
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\bin\Release\CalcMiniScript.dll
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\bin\Release\CalcMiniScript.pdb
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.csprojResolveAssemblyReference.cache
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.About.resources
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.Properties.Resources.resources
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.csproj.GenerateResource.Cache
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.csproj.CoreCompileInputs.cache
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.exe
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.pdb
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Demo\obj\Release\Demo.Main.resources

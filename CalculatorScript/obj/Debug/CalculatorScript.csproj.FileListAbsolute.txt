@@ -1,0 +1,8 @@
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Debug\CalculatorScript.csprojResolveAssemblyReference.cache
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Debug\CalculatorScript.csproj.CoreCompileInputs.cache
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\bin\Debug\CalcMiniScript.dll
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\bin\Debug\CalcMiniScript.pdb
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\bin\Debug\CalcMiniScript.dll.CodeAnalysisLog.xml
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\bin\Debug\CalcMiniScript.dll.lastcodeanalysissucceeded
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Debug\CalcMiniScript.dll
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Debug\CalcMiniScript.pdb

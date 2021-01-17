@@ -1,0 +1,6 @@
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\bin\Release\CalcMiniScript.dll
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\bin\Release\CalcMiniScript.pdb
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Release\CalculatorScript.csproj.CoreCompileInputs.cache
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Release\CalcMiniScript.dll
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Release\CalcMiniScript.pdb
+C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Release\CalculatorScript.csprojResolveAssemblyReference.cache
