@@ -1,9 +1,5 @@
 # CalculatorScript
-Algoritmos simples para interpretação de Cálculos
-
-[20/04/2020] Comecei a escrever este Algortimo para adiconar à um projecto de Jogo 2D com Unity 
-
-Um Jogo muito fixe que em breve poderá ser partilhado como um projecto de código OpenSource.
+Algoritmo simples para interpretação de Cálculos
 
 por que este algoritimo? 
 Precisava gerar operacoes de diferentes tipos
