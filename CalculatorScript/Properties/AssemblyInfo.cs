@@ -4,12 +4,12 @@ using System.Reflection;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("CalcMiniScript")]
+[assembly: AssemblyTitle("CalcInterpreterX")]
 [assembly: AssemblyDescription("Boa para cálculos em tempo de execucao")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Júlio José de Andrade Reis")]
-[assembly: AssemblyProduct("CalculatorScript")]
-[assembly: AssemblyCopyright("Direitos Autorais ©  2019")]
+[assembly: AssemblyProduct("CalcInterpreterX")]
+[assembly: AssemblyCopyright("Xuxunguinho ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 [assembly: NeutralResourcesLanguage("pt-AO")]

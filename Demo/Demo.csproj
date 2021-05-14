@@ -35,7 +35,7 @@
     <Prefer32Bit>false</Prefer32Bit>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>Calculator_4.ico</ApplicationIcon>
+    <ApplicationIcon>icons8_calculator_1.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -115,9 +115,9 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CalculatorScript\CalculatorScript.csproj">
+    <ProjectReference Include="..\CalculatorScript\CalcInterpreterX.csproj">
       <Project>{50eae3b0-d1f4-47c9-b168-70170b74f3ac}</Project>
-      <Name>CalculatorScript</Name>
+      <Name>CalcInterpreterX</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>
@@ -125,6 +125,7 @@
     <Content Include="Calculator_2.ico" />
     <Content Include="Calculator_3.ico" />
     <Content Include="Calculator_4.ico" />
+    <Content Include="icons8_calculator_1.ico" />
     <None Include="Resources\Drafting Compass_96px.png" />
     <None Include="Resources\Cherry_96px.png" />
     <None Include="Resources\Steak_96px.png" />

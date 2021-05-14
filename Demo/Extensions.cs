@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Linq;
-using CalcMiniScript;
+using CalcInterpreterX;
 
 namespace Demo
 {
@@ -16,7 +16,7 @@ namespace Demo
         {
             obj.Text = obj.Text ?? " ";
             
-            if (str.Where(CalcCompiller.SuportedOperators.Contains).Any())
+            if (str.Where(Interpreter.SuportedOperators.Contains).Any())
             {
                 if (obj.Text.Contains("="))
                 {

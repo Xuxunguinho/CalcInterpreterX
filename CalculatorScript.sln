@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorScript", "CalculatorScript\CalculatorScript.csproj", "{50EAE3B0-D1F4-47C9-B168-70170B74F3AC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalcInterpreterX", "CalculatorScript\CalcInterpreterX.csproj", "{50EAE3B0-D1F4-47C9-B168-70170B74F3AC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo", "Demo\Demo.csproj", "{C0049F93-710E-4F0B-9836-5A8D55450B8C}"
 EndProject

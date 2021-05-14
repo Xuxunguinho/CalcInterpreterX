@@ -1,0 +1,6 @@
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Release\CalcInterpreterX.dll
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Release\CalcInterpreterX.pdb
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalcInterpreterX.csprojResolveAssemblyReference.cache
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalcInterpreterX.csproj.CoreCompileInputs.cache
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalcInterpreterX.dll
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalcInterpreterX.pdb

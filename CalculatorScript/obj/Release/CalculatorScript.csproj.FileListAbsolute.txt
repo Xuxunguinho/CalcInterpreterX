@@ -4,3 +4,9 @@ C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\Calcu
 C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Release\CalcMiniScript.dll
 C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Release\CalcMiniScript.pdb
 C:\HARD_DISK\Projects\Projectos Pessoais\CalculatorScript\CalculatorScript\CalculatorScript\obj\Release\CalculatorScript.csprojResolveAssemblyReference.cache
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Release\CalcInterpreterX.dll
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Release\CalcInterpreterX.pdb
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalculatorScript.csprojResolveAssemblyReference.cache
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalculatorScript.csproj.CoreCompileInputs.cache
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalcInterpreterX.dll
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Release\CalcInterpreterX.pdb

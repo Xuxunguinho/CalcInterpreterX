@@ -7,8 +7,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{50EAE3B0-D1F4-47C9-B168-70170B74F3AC}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>CalcMiniScript</RootNamespace>
-    <AssemblyName>CalcMiniScript</AssemblyName>
+    <RootNamespace>CalcInterpreterX</RootNamespace>
+    <AssemblyName>CalcInterpreterX</AssemblyName>
     <DefaultLanguage>pt-BR</DefaultLanguage>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{786C830F-07A1-408B-BD7F-6EE04809D6DB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
@@ -37,10 +37,10 @@
     <!-- A reference to the entire .NET Framework is automatically included -->
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CalcCompiller.cs" />
-    <Compile Include="CompillerExtentions.cs" />
+    <Compile Include="Interpreter.cs" />
+    <Compile Include="Extentions.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="EnumerableMensure.cs" />
+    <Compile Include="MathHelper.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\Portable\$(TargetFrameworkVersion)\Microsoft.Portable.CSharp.targets" />
 </Project>

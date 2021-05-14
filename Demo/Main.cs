@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Windows.Forms;
-using CalcMiniScript;
+using CalcInterpreterX;
 
 namespace Demo
 {
     public partial class Main : Form
     {
-       private readonly CalcCompiller _compiler = new CalcCompiller();
+       private readonly Interpreter _compiler = new Interpreter();
         public Main()
         {
             InitializeComponent();
@@ -15,7 +15,6 @@ namespace Demo
         {
             textView.Append(((Button)sender).Text);
         }
-
         /// <inheritdoc />
         /// <summary>
         /// Para Obter os valores as teclas precionadas
