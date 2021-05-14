@@ -7,7 +7,7 @@ using System.Reflection;
 [assembly: AssemblyTitle("CalcInterpreterX")]
 [assembly: AssemblyDescription("Boa para cálculos em tempo de execucao")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Júlio José de Andrade Reis")]
+[assembly: AssemblyCompany("https://github.com/Xuxunguinho")]
 [assembly: AssemblyProduct("CalcInterpreterX")]
 [assembly: AssemblyCopyright("Xuxunguinho ©  2019")]
 [assembly: AssemblyTrademark("")]

@@ -64,7 +64,7 @@
             // btnP1
             // 
             this.btnP1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnP1.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnP1.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnP1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnP1.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnP1.ForeColor = System.Drawing.Color.White;
@@ -127,7 +127,7 @@
             // btnP2
             // 
             this.btnP2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnP2.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnP2.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnP2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnP2.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnP2.ForeColor = System.Drawing.Color.White;
@@ -143,7 +143,7 @@
             // btnMod
             // 
             this.btnMod.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnMod.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnMod.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnMod.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMod.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMod.ForeColor = System.Drawing.Color.White;
@@ -159,7 +159,7 @@
             // btnExp
             // 
             this.btnExp.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnExp.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnExp.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnExp.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnExp.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnExp.ForeColor = System.Drawing.Color.White;
@@ -175,7 +175,7 @@
             // btnMutiply
             // 
             this.btnMutiply.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnMutiply.FlatAppearance.BorderColor = System.Drawing.Color.DarkGreen;
+            this.btnMutiply.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnMutiply.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnMutiply.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnMutiply.ForeColor = System.Drawing.Color.White;
@@ -191,7 +191,7 @@
             // btnSubtract
             // 
             this.btnSubtract.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnSubtract.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnSubtract.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnSubtract.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnSubtract.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnSubtract.ForeColor = System.Drawing.Color.White;
@@ -207,7 +207,7 @@
             // btnPlus
             // 
             this.btnPlus.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnPlus.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnPlus.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnPlus.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnPlus.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnPlus.ForeColor = System.Drawing.Color.White;
@@ -223,7 +223,7 @@
             // btnEqual
             // 
             this.btnEqual.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnEqual.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnEqual.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnEqual.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnEqual.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnEqual.ForeColor = System.Drawing.Color.White;
@@ -239,7 +239,7 @@
             // btnDivide
             // 
             this.btnDivide.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnDivide.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnDivide.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnDivide.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDivide.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDivide.ForeColor = System.Drawing.Color.White;
@@ -255,7 +255,7 @@
             // btn7
             // 
             this.btn7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn7.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn7.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn7.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn7.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn7.ForeColor = System.Drawing.Color.White;
@@ -271,7 +271,7 @@
             // btn8
             // 
             this.btn8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn8.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn8.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn8.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn8.ForeColor = System.Drawing.Color.White;
@@ -287,7 +287,7 @@
             // btn9
             // 
             this.btn9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn9.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn9.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn9.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn9.ForeColor = System.Drawing.Color.White;
@@ -303,7 +303,7 @@
             // btn4
             // 
             this.btn4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn4.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn4.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn4.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn4.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn4.ForeColor = System.Drawing.Color.White;
@@ -319,7 +319,7 @@
             // btn5
             // 
             this.btn5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn5.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn5.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn5.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn5.ForeColor = System.Drawing.Color.White;
@@ -335,7 +335,7 @@
             // btn6
             // 
             this.btn6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn6.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn6.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn6.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn6.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn6.ForeColor = System.Drawing.Color.White;
@@ -351,7 +351,7 @@
             // btn0
             // 
             this.btn0.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn0.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn0.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn0.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn0.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn0.ForeColor = System.Drawing.Color.White;
@@ -367,7 +367,7 @@
             // btn1
             // 
             this.btn1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn1.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn1.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn1.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn1.ForeColor = System.Drawing.Color.White;
@@ -383,7 +383,7 @@
             // btn2
             // 
             this.btn2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn2.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn2.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn2.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn2.ForeColor = System.Drawing.Color.White;
@@ -399,7 +399,7 @@
             // btn3
             // 
             this.btn3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btn3.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btn3.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btn3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btn3.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn3.ForeColor = System.Drawing.Color.White;
@@ -415,7 +415,7 @@
             // btnDecimal
             // 
             this.btnDecimal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnDecimal.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnDecimal.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnDecimal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDecimal.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDecimal.ForeColor = System.Drawing.Color.White;
@@ -431,7 +431,7 @@
             // btnClear
             // 
             this.btnClear.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnClear.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnClear.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnClear.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnClear.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnClear.ForeColor = System.Drawing.Color.White;
@@ -447,7 +447,7 @@
             // btnDel
             // 
             this.btnDel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnDel.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnDel.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnDel.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnDel.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnDel.ForeColor = System.Drawing.Color.White;
@@ -463,7 +463,7 @@
             // btnIntDivide
             // 
             this.btnIntDivide.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(120)))), ((int)(((byte)(144)))), ((int)(((byte)(156)))));
-            this.btnIntDivide.FlatAppearance.BorderColor = System.Drawing.Color.DarkGray;
+            this.btnIntDivide.FlatAppearance.BorderColor = System.Drawing.Color.DimGray;
             this.btnIntDivide.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.btnIntDivide.Font = new System.Drawing.Font("Consolas", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btnIntDivide.ForeColor = System.Drawing.Color.White;
@@ -480,7 +480,7 @@
             // 
             this.textView.BackColor = System.Drawing.Color.Transparent;
             this.textView.BaseColor = System.Drawing.Color.SteelBlue;
-            this.textView.BorderColor = System.Drawing.Color.Gainsboro;
+            this.textView.BorderColor = System.Drawing.Color.DimGray;
             cornersProperty1.All = 8;
             cornersProperty1.LowerLeft = 8;
             cornersProperty1.LowerRight = 8;

@@ -1,0 +1,7 @@
+
+*.exe
+*.pdb
+*.exe
+*.cache
+*.Cache
+Demo/obj/Debug/Demo.csproj.FileListAbsolute.txt

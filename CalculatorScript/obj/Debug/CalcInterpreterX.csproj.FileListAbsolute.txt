@@ -1,0 +1,8 @@
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Debug\CalcInterpreterX.dll
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Debug\CalcInterpreterX.pdb
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Debug\CalcInterpreterX.dll.CodeAnalysisLog.xml
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\bin\Debug\CalcInterpreterX.dll.lastcodeanalysissucceeded
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Debug\CalcInterpreterX.csprojResolveAssemblyReference.cache
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Debug\CalcInterpreterX.csproj.CoreCompileInputs.cache
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Debug\CalcInterpreterX.dll
+D:\Projects\Confidentials\Calculation-Interpreter\CalculatorScript\obj\Debug\CalcInterpreterX.pdb
