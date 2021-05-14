@@ -5,3 +5,6 @@
 *.cache
 *.Cache
 Demo/obj/Debug/Demo.csproj.FileListAbsolute.txt
+*.cache
+*.exe
+*.pdb

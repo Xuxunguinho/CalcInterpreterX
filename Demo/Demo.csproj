@@ -57,7 +57,6 @@
       <DependentUpon>About.cs</DependentUpon>
     </Compile>
     <Compile Include="AdvancedButton.cs" />
-    <Compile Include="DrawingContext.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="GridColorSheme.cs" />
     <Compile Include="Main.cs">
@@ -115,12 +114,6 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\CalculatorScript\CalcInterpreterX.csproj">
-      <Project>{50eae3b0-d1f4-47c9-b168-70170b74f3ac}</Project>
-      <Name>CalcInterpreterX</Name>
-    </ProjectReference>
-  </ItemGroup>
-  <ItemGroup>
     <Content Include="Calculator.ico" />
     <Content Include="Calculator_2.ico" />
     <Content Include="Calculator_3.ico" />
@@ -131,6 +124,12 @@
     <None Include="Resources\Steak_96px.png" />
     <None Include="Resources\Raspberry_96px.png" />
     <None Include="Resources\Raspberry_1.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CalcInterpreterX\CalcInterpreterX.csproj">
+      <Project>{50eae3b0-d1f4-47c9-b168-70170b74f3ac}</Project>
+      <Name>CalcInterpreterX</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

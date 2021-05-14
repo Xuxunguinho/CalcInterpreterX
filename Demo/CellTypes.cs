@@ -7,7 +7,6 @@ namespace Demo
     public  class AlgsCell : Control
     {
         private Rectangle _imageRect;
-        private RectangleF _textRect;
         private Graphics _graphics;
         public Image Ico { get; set; }
         public bool IsIcognite { get; set; }
@@ -17,7 +16,7 @@ namespace Demo
         protected override void OnPaint(PaintEventArgs e)
         {
             _imageRect = new Rectangle(0,0,Width -1,Height-1);
-            _textRect = new RectangleF(0,0,Width-1,Height-1);
+            new RectangleF(0,0,Width-1,Height-1);
             _graphics = e.Graphics;
             _imageRect.Inflate(-1,-1);
             using (var p = new Pen(GridColorSheme.CellBorderColor))
